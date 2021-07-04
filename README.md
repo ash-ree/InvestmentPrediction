@@ -1,1 +1,1 @@
-# InvestmentPrediction
+The purpose of developing the research project is to analyse the stock market, then using this analysis to invest only in stocks which will gives profit in future. Precisely the project gives the investor a predicted value of stock by using technical analysis of stock prices and fundamental analysis of twitter data. It combines both the answers and give a yes as on output if the price of the stock will go up and a no if the prices will go down in future. 
